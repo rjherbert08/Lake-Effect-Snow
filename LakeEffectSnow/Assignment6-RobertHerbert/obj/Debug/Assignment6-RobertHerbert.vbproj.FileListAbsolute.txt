@@ -1,0 +1,11 @@
+c:\users\robbie\documents\visual studio 2015\Projects\Assignment6-RobertHerbert\Assignment6-RobertHerbert\bin\Debug\Assignment6-RobertHerbert.exe.config
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\Assignment6-RobertHerbert\Assignment6-RobertHerbert\obj\Debug\Assignment6-RobertHerbert.vbprojResolveAssemblyReference.cache
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\Assignment6-RobertHerbert\Assignment6-RobertHerbert\obj\Debug\Assignment6_RobertHerbert.Form1.resources
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\Assignment6-RobertHerbert\Assignment6-RobertHerbert\obj\Debug\Assignment6_RobertHerbert.Resources.resources
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\Assignment6-RobertHerbert\Assignment6-RobertHerbert\obj\Debug\Assignment6-RobertHerbert.vbproj.GenerateResource.Cache
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\Assignment6-RobertHerbert\Assignment6-RobertHerbert\obj\Debug\Assignment6-RobertHerbert.xml
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\Assignment6-RobertHerbert\Assignment6-RobertHerbert\bin\Debug\Assignment6-RobertHerbert.exe
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\Assignment6-RobertHerbert\Assignment6-RobertHerbert\bin\Debug\Assignment6-RobertHerbert.pdb
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\Assignment6-RobertHerbert\Assignment6-RobertHerbert\bin\Debug\Assignment6-RobertHerbert.xml
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\Assignment6-RobertHerbert\Assignment6-RobertHerbert\obj\Debug\Assignment6-RobertHerbert.exe
+C:\Users\Robbie\Documents\Visual Studio 2015\Projects\Assignment6-RobertHerbert\Assignment6-RobertHerbert\obj\Debug\Assignment6-RobertHerbert.pdb
